@@ -14,6 +14,8 @@ site as closely as possible.
 - [x] GitHub Pages deploy workflow `.github/workflows/jekyll.yml`
 - [x] Pushed to GitHub; Pages enabled (`build_type: workflow`)
 - [x] Actions run succeeded; site deployed
+- [x] All content pages converted from HTML to Markdown (kramdown + IAL),
+      verified on the live site (CSS classes/ids render correctly)
 
 Live site: https://klirktag.github.io/openlierox-jekyll/
 Repo: https://github.com/klirktag/openlierox-jekyll (default branch `main`)
